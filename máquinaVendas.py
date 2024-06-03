@@ -23,7 +23,7 @@ cédulas = [[200, 1],
            [0.01, 80]]    
 
 senha = 2211 #Para o modo Adm
-continuar = True #Manter loop do modo adm
+continuar = True #Manter loop do modo adm  
 
 # Imprime a matriz de uma forma bonita e legível 
 def imprimirMatriz(matriz):
